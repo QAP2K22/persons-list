@@ -13,4 +13,4 @@ Aplicativo em react-native, que consome a API dummyjson
 <br>
 
 # terceira tela (Posts)
-<img src="https://cdn.discordapp.com/attachments/780615034816036897/1156343517703053322/primeira.png?ex=6514a052&is=65134ed2&hm=78c2adb576800e4b591e3d60f92d4433705e091c46732430643f536864fd04bd&" alt="Tela de posts da pessoa"> 
+<img src="https://cdn.discordapp.com/attachments/780615034816036897/1156343517145206924/terceira.png?ex=6514a052&is=65134ed2&hm=f0379458fbb11bcc09d0a294dc22b1e91e0f6dfec928cd987da71e7dc714e4f3&" alt="Tela de posts da pessoa"> 
